@@ -1,6 +1,5 @@
 /*:
 # DGL 204: Problem Set 9
-**Instructions:** Complete **six out of seven** problems below. Write each problem solution directly beneath the problem descriptions (i.e. don't write all problem solutions at the bottom of the file). Make sure there are **no** namespace collisions in your file: all problems must be solved without the need to comment out prior solutions.
 */
 //Imports
 import Foundation
